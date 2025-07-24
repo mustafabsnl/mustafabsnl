@@ -10,7 +10,7 @@
 ### 🚀 About Me
 - 🎓 3rd-year Computer Engineering student  
 - 💻 Working with Java, Python, and C++ in backend and robotics projects  
-- 🤖 Experienced with ROS 2, Gazebo, Mission Planner and TurtleBot3 simulations on Ubuntu  
+- 🤖 Experienced with ROS, Gazebo, Mission Planner and TurtleBot3 simulations on Ubuntu  
 - 📊 Building database-driven applications with PostgreSQL and MySQL  
 - 🌐 Interested in AI, computer vision, and scalable backend systems  
 - 🌱 Currently learning advanced web development with TypeScript and Tailwind CSS  
