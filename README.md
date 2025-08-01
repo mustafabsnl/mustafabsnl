@@ -41,4 +41,4 @@
 ---
 
 ### 📫 Let's Connect!
-- 🌐 [LinkedIn](https://www.linkedin.com/in/eesraoncu)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/mustafa-bosnali/)
