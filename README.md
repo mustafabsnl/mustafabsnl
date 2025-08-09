@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white" />
   <img src="https://img.shields.io/badge/Gazebo-3C3C3C?style=flat&logo=gazebo&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
