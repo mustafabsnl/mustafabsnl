@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 - 🎓 3rd-year Computer Engineering student
-- 🛡️ Developing defense-grade autonomous systems for **TEKNOFEST 2026 — Savaşan İHA** competition
+- 🛡️ Developing autonomous UAV systems with real-time detection, tracking, and edge AI for defense applications
 - 🤖 Building real-time object detection & tracking pipelines on **NVIDIA Jetson** edge devices
 - 🐧 Daily-driving **Ubuntu** for robotics, embedded development, and Linux server management
 - 💻 Backend development with **Java (Spring Boot)**, **Python**, and **C++**
@@ -82,4 +82,3 @@
 
 ### 📫 Let's Connect!
 - 🌐 [LinkedIn](https://www.linkedin.com/in/mustafa-bosnali/)
-- 💼 [GitHub](https://github.com/mustafabsnl)
