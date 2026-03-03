@@ -22,7 +22,9 @@
 - 🎯 **Autonomous UAV Detection & Tracking** — YOLOv8 + custom tracker on Jetson Orin Nano
 - 📡 **Real-Time Video Streaming** — Low-latency UDP/JPEG pipeline (Jetson → Ground Station)
 - 🛰️ **UAV Telemetry & Communication** — MAVLink + Pixhawk integration for autonomous flight
+- 🤖 **Autonomous Harvest Robot** — YOLOv8 (ONNX) + 9-state FSM on Raspberry Pi, controlling mBot2 via UDP
 - 🌐 **Full-Stack Web Apps** — React, TypeScript, Tailwind CSS
+
 
 ---
 
